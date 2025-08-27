@@ -1,0 +1,16 @@
+# node
+node_modules
+dist
+
+# python
+__pycache__/
+*.pyc
+.venv
+/backend/env
+.env.*
+.envrc
+
+# misc
+.DS_Store
+.idea
+.vscode
